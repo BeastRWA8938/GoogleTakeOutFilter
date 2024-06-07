@@ -13,5 +13,5 @@ This script helps you organize your Google Photos into sorted "Photos" and "Vide
 
 It is recommended to run [ExifTool](https://exiftool.org/) first to fix the metadata of your files. This ensures that all photos and videos have the correct metadata before running this script.
 
-# Here is how you can use the ExifTool
+### Here is how you can use the ExifTool
 https://legault.me/post/correctly-migrate-away-from-google-photos-to-icloud
